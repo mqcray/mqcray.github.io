@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Macray's Newsletter</h1>
-<p> This is a test for my newsletter. </p>
+<p> This is a test for my newsletter.</p>
 </body>
 </html>
