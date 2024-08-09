@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>Macray's Newsletter</h1>
-<p> This is a test for my newsletter.</p>
-</body>
+   <head>
+      <title>My Cool Website</title>
+   </head>
+   <body>
+      <h1>Welcome to Macray's newsletter. ⭐️</h1>
+      <p>I hope you enjoy what you read. 🎉</p>
+   </body>
 </html>
